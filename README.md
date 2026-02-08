@@ -31,7 +31,7 @@ Through this project I:
 - Enhanced my ability to design web interfaces that present data clearly, attractively, and responsively  
 
 ### Project Page
-[Visit the website](https://salmalilad.github.io/KWK--Capstone_Project/) Project Page
+[Visit the website](https://salmalilad.github.io/KWK--Malpractice_Mentioned/#intro) Project Page
 
 
 ---
